@@ -1,0 +1,21 @@
+.head{
+    margin: 40px auto;
+    animation: starting 1.3s forwards;
+}
+
+button{
+    margin: 15px auto;
+}
+
+@keyframes starting {
+    0%{
+        opacity: 0;
+        transform: translateY(-200px);
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
