@@ -1,7 +1,21 @@
 .pdtx_photo{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
     width: 100%;
-    max-width: 1500px;
+    max-width: 1425px;
     /*height: 40%;*/
+    align-items: center;
+    animation: starting 1.3s forwards;
     
 }
 
+@keyframes starting {
+    0% {
+        opacity: 0;
+    }
+
+    100%{
+        opacity: 1;
+    }
+}

@@ -3,14 +3,17 @@ body{
     color: whitesmoke;
     display: flex;
     flex-direction: column;
+    margin: auto 0;
 }
 
 .photo{
     margin-right: 2%;
     border-radius: 50%;
     width: 45%;
-    max-width: 400px;
+    max-width: 500px;
     box-shadow: 4px 4px 14px whitesmoke;
+    /*animation: starting 1.3s forwards;*/
+    animation: rotate 1.3s forwards;
 }
 
 /*img:hover{*/
@@ -19,9 +22,13 @@ body{
 
 .photo_text{
     animation: starting 1.3s forwards;
+    animation: fs 1.3s forwards;
     display: flex;
-    margin-top: 2%;
-    margin-left: 2%;
+    margin-top: 10vh;
+    /*margin: auto auto;*/
+    /*margin: auto auto;*/
+    /*align-items: center;*/
+    /*margin-left: (100% - 10vh);*/
 }
 
 .name{
@@ -32,12 +39,40 @@ body{
 @keyframes starting {
     0%{
         opacity: 0;
-        transform: translateY(-100px);
+        transform: translateY(-100);
+        /*transform: rotate(0.5turn);*/
+
+        /*transform: translateY(-100px);*/
     }
     50%{
         opacity: 1;
     }
     100%{
+
+        /*transform: rotate(0deg);*/
+
         transform: translateY(0);
     }
+}
+
+@keyframes rotate {
+    0%{
+        transform: rotate(0.5turn);
+        /*transform: translateX(200px);*/
+    }
+
+    100%{
+        transform: rotate(0);
+        /*transform: translateX(0);*/
+    }
+}
+
+@keyframes fs {
+    0%{
+        transform: translateX(200px);
+    }
+    100%{
+        transform: translateX(0px);
+    }
+
 }
