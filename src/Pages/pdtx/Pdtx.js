@@ -26,7 +26,7 @@ class Pdtx extends Component {
     render() {
         return (
             <div>
-                <Carousel>
+                <Carousel justi>
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p1} alt="p1"/>
                         <Carousel.Caption>

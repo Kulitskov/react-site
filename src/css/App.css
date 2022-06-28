@@ -5,8 +5,14 @@ body{
 .App {
   /*background: url("../../src/Pictures/back.jpg");*/
   text-align: center;
+  display: flex;
+  flex-direction: column;
+
 }
 
+footer{
+  margin-top: auto;
+}
 
 .App-logo {
   height: 40vmin;

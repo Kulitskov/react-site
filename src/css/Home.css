@@ -1,7 +1,8 @@
 body{
     background-color: #373737;
     color: whitesmoke;
-
+    display: flex;
+    flex-direction: column;
 }
 
 .photo{

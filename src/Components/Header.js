@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Container, Nav, Navbar} from "react-bootstrap";
-import logo from '../Pictures/telegram.svg';
+import logo from '../Pictures/HandWithEye.gif';
 import {BrowserRouter as Router, Route} from "react-router-dom";
 import {Routes} from "react-router";
 import Home from "../Pages/Home";
@@ -17,7 +17,7 @@ class Header extends Component {
                 <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
                     <Container>
                         <Navbar.Brand href="/">
-                            <img scr={logo} height="30" alt="213"/>
+                            <img src={logo} height="30" alt="213"/>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="responsible-navbar-nav"/>
                         <Navbar.Collapse id="responsive-navbar-nav">
