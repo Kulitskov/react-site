@@ -29,142 +29,142 @@ class Pdtx extends Component {
                 <Carousel justi>
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p1} alt="p1"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p2} alt="p2"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                         {/*<Carousel.Caption>*/}
+                         {/*    <h3></h3>*/}
+                         {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p3} alt="p3"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                         {/*<Carousel.Caption>*/}
+                         {/*    <h3></h3>*/}
+                         {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p4} alt="p4"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                         {/*<Carousel.Caption>*/}
+                         {/*    <h3></h3>*/}
+                         {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p5} alt="p5"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                         {/*<Carousel.Caption>*/}
+                         {/*    <h3></h3>*/}
+                         {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p6} alt="p6"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                         {/*<Carousel.Caption>*/}
+                         {/*    <h3></h3>*/}
+                         {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p7} alt="p7"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                         {/*<Carousel.Caption>*/}
+                         {/*    <h3></h3>*/}
+                         {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p8} alt="p8"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p9} alt="p9"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p10} alt="p10"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p11} alt="p11"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p12} alt="p12"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p13} alt="p13"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p14} alt="p14"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p15} alt="p15"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p16} alt="p16"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p17} alt="p17"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p18} alt="p18"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p19} alt="p19"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img className="pdtx_photo" src={p20} alt="p20"/>
-                        <Carousel.Caption>
-                            <h3></h3>
-                        </Carousel.Caption>
+                        {/*<Carousel.Caption>*/}
+                        {/*    <h3></h3>*/}
+                        {/*</Carousel.Caption>*/}
                     </Carousel.Item>
 
 

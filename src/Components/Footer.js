@@ -3,7 +3,7 @@ import '../css/Footer.css';
 import pict_tellegram from '../Pictures/telegram.svg';
 import pict_github from '../Pictures/github.svg';
 import pict_facebook from '../Pictures/facebook.svg';
-import {Navbar} from "react-bootstrap";
+// import {Navbar} from "react-bootstrap";
 
 class Footer extends Component {
     render() {

@@ -7,7 +7,7 @@ import Home from "../Pages/Home";
 import About from "../Pages/About";
 import Contacts from "../Pages/Contacts";
 import Blog from "../Pages/Blog";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 
 class Header extends Component {
     render() {
@@ -38,7 +38,7 @@ class Header extends Component {
                         <Route path="/blog" element={<Blog/>}/>
                     </Routes>
                 </Router>
-                <Footer/>
+                {/*<Footer/>*/}
             </div>
         )
     }

@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Footer from "../Components/Footer";
+// import Footer from "../Components/Footer";
 import Pdtx from "./pdtx/Pdtx";
 
 class Blog extends Component {
